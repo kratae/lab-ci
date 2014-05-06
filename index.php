@@ -2,7 +2,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT KRATAE
+ * APPLICATION ENVIRONMENT KRATAE 2014-05-06 ^^
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your
